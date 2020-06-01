@@ -33,10 +33,17 @@ each type of offer.
 ## Steps  
 1. Access, Clean and Analyze Data
 
-This step involves Data cleaning process and Classification based on different group of users 
+This step involves Data cleaning process and Classification based on different group of users.
 2. Training Data and Models
 In starbuck case, what I like to predict is whether the promotion offer will be efficient for certain users. It is a binary classification problem.
 
+The target will be the efficient offer.
+
+The features to train will be the other features in the data, include the users demographic characteristics and also the offer duration, type, offer channels, etc.
+
+I defined the dataset as labeled data, so we will use supervised learning models.
+
+What I want to predict is a categorical form, will be YES or NO, 1 or 0.
 The target will be the efficient offer.
 
 <a name="model"></a>
