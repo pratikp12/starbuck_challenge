@@ -50,3 +50,5 @@ I tried following 4 model to check which model have high accuracy
 
 <a name="summary"></a>
 # Summary
+![](data/star1.PNG)
+### The most predictive that the feature can be effient is 'age', 'income', and 'difficuty' of the offer.
