@@ -48,6 +48,7 @@ I tried following 4 model to check which model have high accuracy
 3. Gradient boosting model
 4. Adaboost model
 
+Decision Tree and Random Forest models work better in this case, I will select this both models to tone them by adjust their parameters.
 <a name="summary"></a>
 # Summary
 ![](data/star1.PNG)
